@@ -25,7 +25,8 @@ deploy:
   provider: gcs
   access_key_id: $AKEY
   secret_access_key: $ASEC
-  bucket: https://console.cloud.google.com/storage/browser/mhw_production
+#  bucket: https://console.cloud.google.com/storage/browser/mhw_production
+  bucket: gs://mhw_production
   skip_cleanup: true
   acl: public-read
   local-dir: release1
