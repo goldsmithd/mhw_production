@@ -29,7 +29,7 @@ deploy:
   bucket: mhw_production
   skip_cleanup: true
   acl: public-read
-#  local-dir: release1
+  local-dir: _site
 
 addons:
   apt:
