@@ -23,28 +23,28 @@ script: ./script/cibuild
 #    branch: release1
 
 # deploy to GCS
-#deploy:
-#  provider: gcs
-#  access_key_id: $AKEY
-#  secret_access_key: $ASEC
-#  bucket: mhw_production
-#  skip_cleanup: true
-#  acl: public-read
-#  local-dir: public
+deploy:
+  provider: gcs
+  access_key_id: $AKEY
+  secret_access_key: $ASEC
+  bucket: mhw_production
+  skip_cleanup: true
+  acl: public-read
+  local-dir: public
 
 #after_success: s3_website push
 
-deploy:
-  provider: s3
-#  access_key_id: $S3_ACCESS_KEY_ID
-#  secret_access_key: $S3_SECRET_KEY
-  access_key_id: $S3_SECRET_KEY
-  secret_access_key: $S3_ACCESS_KEY_ID  
-#  bucket: "http://goldsmithd.github.io.s3-website.eu-west-2.amazonaws.com"
-  bucket: "goldsmithd.github.io.s3-website.eu-west-2.amazonaws.com"
-  region: eu-west-2
-  skip_cleanup: true
-  local_dir: public
+#deploy:
+#  provider: s3
+##  access_key_id: $S3_ACCESS_KEY_ID
+##  secret_access_key: $S3_SECRET_KEY
+#  access_key_id: $S3_SECRET_KEY
+#  secret_access_key: $S3_ACCESS_KEY_ID  
+##  bucket: "http://goldsmithd.github.io.s3-website.eu-west-2.amazonaws.com"
+#  bucket: "goldsmithd.github.io.s3-website.eu-west-2.amazonaws.com"
+#  region: eu-west-2
+#  skip_cleanup: true
+#  local_dir: public
 
 
 
