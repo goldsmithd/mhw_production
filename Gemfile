@@ -10,6 +10,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
 
+# add s3_build
+gem "s3_website"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
