@@ -40,6 +40,7 @@ deploy:
   secret_access_key: $S3_SECRET_KEY
 #  bucket: "http://goldsmithd.github.io.s3-website.eu-west-2.amazonaws.com"
   bucket: "goldsmithd.github.io"
+  region: eu-west-2
   skip_cleanup: true
   local_dir: public
 
