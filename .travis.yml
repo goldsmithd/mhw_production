@@ -32,7 +32,16 @@ script: ./script/cibuild
 #  acl: public-read
 #  local-dir: public
 
-after_success: s3_website push
+#after_success: s3_website push
+
+deploy:
+  provider: s3
+  access_key_id: $S3_ACCESS_KEY_ID
+  secret_access_key: $S3_SECRET_KEY
+  bucket: goldsmithd.github.io
+  skip_cleanup: true
+  local_dir: public
+
 
 
 addons:
