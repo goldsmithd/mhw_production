@@ -6,7 +6,7 @@ image: assets/images/1.jpg
 featured: true
 ---
 
-[b]Anne Lane, Chairman [/b]
+##Anne Lane, Chairman
 
 Hello Everyone,
 Following the item in our Jaurary Newsletter 
