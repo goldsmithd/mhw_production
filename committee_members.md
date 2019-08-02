@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: page 
 title:  "Your Committee Members"
 image: assets/images/cm.jpg
 advert: false
