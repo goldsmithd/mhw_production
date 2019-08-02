@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Chaimans Corner April 2019"
-categories: [ chaimans corner, newsletter ]
+categories: [ featured, newsletter ]
 image: assets/images/1.jpg
 featured: true
 ---
