@@ -1,7 +1,6 @@
 ---
 layout: people
 title:  "Your Committee Members"
-categories: [ committee ]
 image: assets/images/cm.jpg
 advert: false
 ---
