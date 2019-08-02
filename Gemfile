@@ -10,6 +10,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.5"
 
+# html proofer
+gem "html-proofer"
+
 # add s3_build
 gem "s3_website"
 
