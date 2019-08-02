@@ -1,14 +1,14 @@
 ---
 layout: post-right-sidebar
 title:  "Chaimans Corner April 2019"
-author: davdG
 categories: [ chaimans corner, newsletter ]
 image: assets/images/1.jpg
 featured: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-Anne Lane, Chairman
+[b]Anne Lane, Chairman [/b]
 
-on behalf of your Committee and Merley Neighbourhood watch.
-
+Hello Everyone,
+Following the item in our Jaurary Newsletter 
+I have been pleased to confirm numerous applications to Join Dorset Alert. 
+It is a good service
