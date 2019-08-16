@@ -19,6 +19,6 @@ We would also like to provide information about what is going on in our area inc
 <span style="color:red"> Can you help liaise with local businesses who want to advertise? </span>.
 
 If you can help or just want to chat through the role please call: Anne Lane on [01202-889912](tel:[01202889912) or email [admin@merley-homewatch.org.uk] 
-<span style="font-family:Papyrus; font-size:4em;"> Anne Lane</span>
+<span style="font-family:Papyrus;"> Anne Lane</span>
 ,Chairman 
 on behalf of your Committee and Merley Neighbourhood Watch 
