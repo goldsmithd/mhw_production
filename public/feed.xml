@@ -5,24 +5,39 @@
     <description>Merley Neighbourhood Watch</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Aug 2019 12:12:35 +0100</pubDate>
-    <lastBuildDate>Sat, 17 Aug 2019 12:12:35 +0100</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2019 20:20:57 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2019 20:20:57 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>Another Advert</title>
-        <description>&lt;p&gt;Paul Steel
-Home Improvements
-9 Poole Road , Wimborne, Dorset, BH21 1QA&lt;/p&gt;
+        <title>Chaimans Corner July 2019</title>
+        <description>&lt;h2 id=&quot;mnw-needs-you&quot;&gt;MNW Needs YOU&lt;/h2&gt;
+&lt;p&gt;Your Committee has just &lt;strong&gt;5&lt;/strong&gt; members! 
+This is our quorum, the minimum needed at meetings to make 
+decisions. This doesn’t allow for illness, accidents or holidays. 
+We need more help! We hold around 6 meetings in the year and would welcome new people with fresh ideas.&lt;/p&gt;
 
-&lt;p&gt;Covering all aspects of internal and extrernal Hoome Improvements&lt;/p&gt;
+&lt;p&gt;Our main aim is to help and guide the Community through safety and security advice in an effort to maintain Merley as a safe place in which to live. 
+We would also like to provide information about what is going on in our area including stories about what has happened and a diary of future events.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt; Can you be the person to gather news and write “copy”? or &lt;/span&gt;. &lt;br /&gt;
+&lt;span style=&quot;color:red&quot;&gt; Can you help liaise with local businesses who want to advertise? &lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you can help or just want to chat through the role please call: &lt;br /&gt;
+Anne Lane on &lt;a href=&quot;tel:[01202889912&quot;&gt;01202-889912&lt;/a&gt; or email &lt;a href=&quot;mailto:admin@merley-homewatch.org.uk&quot;&gt;admin@merley-homewatch.org.uk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family:Papyrus;&quot;&gt; Anne Lane&lt;/span&gt;&lt;/strong&gt; ,Chairman&lt;/p&gt;
+
+&lt;p&gt;on behalf of your Committee and Merley Neighbourhood Watch&lt;/p&gt;
 </description>
-        <pubDate>Sat, 27 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/advert/2019/07/27/advert-example3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/advert/2019/07/27/advert-example3.html</guid>
+        <pubDate>Tue, 30 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/30/chair-notes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/30/chair-notes.html</guid>
         
         
-        <category>advert</category>
+        <category>featured</category>
+        
+        <category>newsletter</category>
         
       </item>
     
@@ -38,40 +53,14 @@ Coordinators are welcome with ideas and comments on the way forward for MNW. Do 
 &lt;p&gt;Visit the Dorset Police web site &lt;a href=&quot;https://www.dorset.police.uk/&quot;&gt;https://www.dorset.police.uk/&lt;/a&gt; for information and opportunities to talk to a police officer on any subject that is important to you.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/featured/newsletter/2019/07/02/mnw-Diary-Dates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/02/mnw-Diary-Dates.html</guid>
+        <pubDate>Mon, 29 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/29/mnw-Diary-Dates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/29/mnw-Diary-Dates.html</guid>
         
         
         <category>featured</category>
         
         <category>newsletter</category>
-        
-      </item>
-    
-      <item>
-        <title>Overheard</title>
-        <description>&lt;p&gt;–
-layout: post-right-sidebar
-title:  “Overheard”
-categories: [ featured, newsletter ]
-image: assets/images/2019-07-01-overheard.jpg
-featured: true
-—
--&lt;/p&gt;
-&lt;h2 id=&quot;bug-bear&quot;&gt;Bug Bear&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;‘Bug Bear’&lt;/strong&gt; - an obstacle or nuisance. But have you heard of ‘Bug Bear’ 
-typically a coconut carved by sailors visiting the tropics years ago. 
-It often depicted a face inlaid with bone eyes and a gaping mouth. 
-It was often used as a drinking or powder flask.&lt;/p&gt;
-
-&lt;p&gt;see &lt;a href=&quot;https://www.1stdibs.com/furniture/more-furniture-collectibles/19th-century-bugbear-carved-coconut-lion-equestrian-hunt-scene/id-f_4019013/&quot;&gt;1stdibs&lt;/a&gt;
-for more information&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/07/01/overheard.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/01/overheard.html</guid>
-        
         
       </item>
     
@@ -102,9 +91,32 @@ are keen to be prepared to react when the Police do need us.&lt;/p&gt;
 &lt;p&gt;If you are interested in making this contribution to our Community please contact 
 Anne Lane on &lt;a href=&quot;tel:[01202889912&quot;&gt;01202-889912&lt;/a&gt; or by email &lt;a href=&quot;mailto:admin@merley-homewatch.org.uk&quot;&gt;admin@merley-homewatch.org.uk&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/featured/newsletter/2019/07/01/dorset-police.html</link>
-        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/01/dorset-police.html</guid>
+        <pubDate>Sun, 28 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/28/dorset-police.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/28/dorset-police.html</guid>
+        
+        
+        <category>featured</category>
+        
+        <category>newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>Overheard</title>
+        <description>&lt;p&gt;-&lt;/p&gt;
+&lt;h2 id=&quot;bug-bear&quot;&gt;Bug Bear&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;‘Bug Bear’&lt;/strong&gt; - an obstacle or nuisance. But have you heard of ‘Bug Bear’ 
+typically a coconut carved by sailors visiting the tropics years ago. 
+It often depicted a face inlaid with bone eyes and a gaping mouth. 
+It was often used as a drinking or powder flask.&lt;/p&gt;
+
+&lt;p&gt;see &lt;a href=&quot;https://www.1stdibs.com/furniture/more-furniture-collectibles/19th-century-bugbear-carved-coconut-lion-equestrian-hunt-scene/id-f_4019013/&quot;&gt;1stdibs&lt;/a&gt;
+for more information&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/26/overheard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/26/overheard.html</guid>
         
         
         <category>featured</category>
@@ -116,14 +128,14 @@ Anne Lane on &lt;a href=&quot;tel:[01202889912&quot;&gt;01202-889912&lt;/a&gt; o
       <item>
         <title>Crime Stoppers</title>
         <description>&lt;h2 id=&quot;dont-forget&quot;&gt;Dont forget&lt;/h2&gt;
-&lt;p&gt;Free - call Crimestoppers anonymously to report a crime. Call 
+&lt;p&gt;Call Crimestoppers free and anonymously to report a crime. Call 
 &lt;a href=&quot;tel:[0800555111]&quot;&gt;0800-555-111&lt;/a&gt; or use the 
-Crimestoppers website &lt;a href=&quot;www.crimestoppers-uk.org&quot;&gt;www.crimestoppers-uk.org&lt;/a&gt;&lt;/p&gt;
+Crimestoppers website &lt;a href=&quot;https:/www.crimestoppers-uk.org&quot;&gt;www.crimestoppers-uk.org&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/featured/newsletter/2019/07/01/crime-stoppers.html</link>
-        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/01/crime-stoppers.html</guid>
+        <pubDate>Thu, 25 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/25/crime-stoppers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/25/crime-stoppers.html</guid>
         
         
         <category>featured</category>
@@ -133,29 +145,21 @@ Crimestoppers website &lt;a href=&quot;www.crimestoppers-uk.org&quot;&gt;www.cri
       </item>
     
       <item>
-        <title>Chaimans Corner July 2019</title>
-        <description>&lt;h2 id=&quot;mnw-needs-you&quot;&gt;MNW Needs YOU&lt;/h2&gt;
-&lt;p&gt;Your Committee has just &lt;strong&gt;5&lt;/strong&gt; members! 
-This is our quorum, the minimum needed at meetings to make 
-decisions. This doesn’t allow for illness, accidents or holidays. 
-We need more help! We hold around 6 meetings in the year and would welcome new people with fresh ideas.&lt;/p&gt;
+        <title>Of Passing Interest</title>
+        <description>&lt;h2 id=&quot;sabotage&quot;&gt;Sabotage&lt;/h2&gt;
+&lt;p&gt;Apparently &lt;strong&gt;sabotage&lt;/strong&gt; originated from the French word ‘sabot’ 
+meaning ‘clog’ or wooden shoe. As industrialisation swept through Europe disgruntled peasants 
+soon discovered that throwing a sabot into machinery was a very effective way of bringing
+factories to a halt.&lt;/p&gt;
 
-&lt;p&gt;Our main aim is to help and guide the Community through safety and security advice in an effort to maintain Merley as a safe place in which to live. 
-We would also like to provide information about what is going on in our area including stories about what has happened and a diary of future events.&lt;/p&gt;
+&lt;p&gt;Courtesy of &lt;strong&gt;Living France&lt;/strong&gt; magazine
+&lt;a href=&quot;https://www.completefrance.com/our-magazines/living-france&quot;&gt;https://www.completefrance.com/our-magazines/living-france&lt;/a&gt; 
+To ‘clog up the works’ may have a similar derivation.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt; Can you be the person to gather news and write “copy”? or &lt;/span&gt;. &lt;br /&gt;
-&lt;span style=&quot;color:red&quot;&gt; Can you help liaise with local businesses who want to advertise? &lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you can help or just want to chat through the role please call: &lt;br /&gt;
-Anne Lane on &lt;a href=&quot;tel:[01202889912&quot;&gt;01202-889912&lt;/a&gt; or email &lt;a href=&quot;mailto:admin@merley-homewatch.org.uk&quot;&gt;admin@merley-homewatch.org.uk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family:Papyrus;&quot;&gt; Anne Lane&lt;/span&gt;&lt;/strong&gt; ,Chairman&lt;/p&gt;
-
-&lt;p&gt;on behalf of your Committee and Merley Neighbourhood Watch&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/featured/newsletter/2019/07/01/chair-notes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/01/chair-notes.html</guid>
+        <pubDate>Wed, 24 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/24/passing-interest.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/24/passing-interest.html</guid>
         
         
         <category>featured</category>
@@ -165,17 +169,18 @@ Anne Lane on &lt;a href=&quot;tel:[01202889912&quot;&gt;01202-889912&lt;/a&gt; o
       </item>
     
       <item>
-        <title>Chaimans Corner April 2019</title>
-        <description>&lt;h2 id=&quot;anne-lane-chairman&quot;&gt;Anne Lane, Chairman&lt;/h2&gt;
+        <title>Remain Vigilant</title>
+        <description>&lt;h2 id=&quot;dont-forget&quot;&gt;Dont forget&lt;/h2&gt;
+&lt;p&gt;Please remain vigilant and &lt;strong&gt;report anything suspicious&lt;/strong&gt; or anyone acting suspiciously, 
+to Dorset Police on &lt;a href=&quot;tel:101&quot;&gt;101&lt;/a&gt; or &lt;a href=&quot;https:/www.dorset.police.uk&quot;&gt;www.dorset.police.uk&lt;/a&gt; or if a crime is 
+in progress, on &lt;a href=&quot;tel:999&quot;&gt;999&lt;/a&gt;. If you witness or are subject to anti-social behaviour, please 
+report it to Dorset Police at the time on &lt;a href=&quot;https:/www.dorset.police.uk&quot;&gt;www.dorset.police.uk&lt;/a&gt; or 
+ring &lt;a href=&quot;tel:101&quot;&gt;101&lt;/a&gt; so they can deal with the behaviour expeditiously.&lt;/p&gt;
 
-&lt;p&gt;Hello Everyone,
-Following the item in our Jaurary Newsletter 
-I have been pleased to confirm numerous applications to Join Dorset Alert. 
-It is a good service&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/featured/newsletter/2019/04/01/chair-notes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/04/01/chair-notes.html</guid>
+        <pubDate>Tue, 23 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/23/remain-vigilant.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/23/remain-vigilant.html</guid>
         
         
         <category>featured</category>
@@ -185,98 +190,90 @@ It is a good service&lt;/p&gt;
       </item>
     
       <item>
-        <title>Oakley Neighbourhood Services</title>
-        <description>&lt;p&gt;This is an advert&lt;/p&gt;
+        <title>Window of Oppertunity</title>
+        <description>&lt;h2 id=&quot;window-of-opportunity&quot;&gt;WINDOW OF OPPORTUNITY&lt;/h2&gt;
+&lt;p&gt;It’s getting warmer, but don’t be tempted to leave windows and doors open in your house, 
+even if you are just in another room. 1 in 3 burglaries result from homes being left insecure. 
+Always lock doors and windows when leaving the house. Lock them even when you are at home but 
+perhaps in the back garden or another part of the house. Don’t leave valuables on view including 
+laptops and games consoles.&lt;/p&gt;
 
-&lt;p&gt;Do you need some help aound your home or garden 
-Weeding,cutting the grass or hedge,
-clearing the paths or driveway?&lt;/p&gt;
+&lt;p&gt;Don’t hang your keys all in one place, keep them in a drawer. Make sure your sheds and 
+garages are locked and secure and all tools are put away.&lt;/p&gt;
+
+&lt;p&gt;Courtesy of &lt;strong&gt;Dorset Police Crime Prevention Poole North&lt;/strong&gt; 
+&lt;a href=&quot;https://www.dorset.police.uk/neighbourhood-policing/poole-north/&quot;&gt;https://www.dorset.police.uk/neighbourhood-policing/poole-north/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/22/window-oppertunity.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/22/window-oppertunity.html</guid>
+        
+        
+        <category>featured</category>
+        
+        <category>newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>Silent Emergency Calls</title>
+        <description>&lt;h2 id=&quot;999--55-silent-emergency-calls&quot;&gt;999 + 55 SILENT EMERGENCY CALLS&lt;/h2&gt;
+&lt;p&gt;Did you know there is a ‘silent’ emergency call system available when you urgently require a 
+police response but are unable to speak. In such circumstances, dial &lt;a href=&quot;tel:999&quot;&gt;999&lt;/a&gt; &amp;amp; when 
+prompted dial 55. This tells the emergency team that you do need help but are unable to speak.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/21/silent-emergency.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/21/silent-emergency.html</guid>
+        
+        
+        <category>featured</category>
+        
+        <category>newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>MNW Committee</title>
+        <description>&lt;h2 id=&quot;mnw-and-your-committee&quot;&gt;MNW and YOUR COMMITTEE&lt;/h2&gt;
+&lt;p&gt;Our AGM on 22 May, unanimously re-elected Anne Lane as your Chair-man - this is her third year in 
+the role. As an ex teacher this has un-doubtedly given her the experience and quiet confidence to 
+address her audience in a way that exudes confidence, enthusiasm and encour-agement. We are glad to 
+have her continuing support to the Community.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-committee-has-also-changed&quot;&gt;Your Committee has also changed.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Cllr David Brown&lt;/strong&gt; has moved out of the Merley area and in accordance with our constitution, 
+has stepped down. David is a stalwart of the Merley community and has made a significant 
+contribution to discus-sions and has influenced our decision making. He will be missed as 
+a MNW Committee Member.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Carol Brough&lt;/strong&gt; has also stepped down. You will all have seen her ready smile and infectious laugh 
+at all meetings when you have asked for a coffee or tea. Carol has organised the catering on so 
+many occasions. We are immensely grateful to her for this ‘behind the scenes’ job that she does 
+so well. However, although she has now left the commit-tee, she has offered to continue in that 
+supporting role. It must be said too, that Carol has taken an active part on your committee. We are 
+most grateful to her for ideas and suggestions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cllr Richard Burton&lt;/strong&gt; has kindly volunteered to join our ranks. Richard was voted unanimously onto 
+your Committee. We welcome him and are sure he will make a very helpful contribution.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;I live and work in the Merley area so I am nevery far away.&lt;/p&gt;
+  &lt;p&gt;As has been said before, your Committee and the work it does on your behalf is only as successful 
+as the active support you offer. &lt;strong&gt;Our quorum is five and we are now down to that number.&lt;/strong&gt; 
+So, please contact Anne and offer your time and experience.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Why not give me a call&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;link to advert!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Darren Gravenor
-Mobile 123456 
-telephone 01202-1234556&lt;/p&gt;
-
+&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt; We need at least two volunteers please. &lt;/span&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/advert/2019/01/12/advert-example1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/advert/2019/01/12/advert-example1.html</guid>
+        <pubDate>Sat, 20 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/20/mnw-Committee.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/20/mnw-Committee.html</guid>
         
         
-        <category>advert</category>
+        <category>featured</category>
         
-      </item>
-    
-      <item>
-        <title>Some other examples of posts</title>
-        <description>&lt;p&gt;examples&lt;/p&gt;
-
-&lt;p&gt;plain text&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;special formating:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;highlighting  &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. or larger highlighting:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;this is in a 
-box for
-highlighing
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;insert a picture&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/head.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;example-video--full-html&quot;&gt;example video ( full html)&lt;/h2&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1LqgCpIUaK0?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/example/tutorial/2018/01/12/example-posts.html</link>
-        <guid isPermaLink="true">http://localhost:4000/example/tutorial/2018/01/12/example-posts.html</guid>
-        
-        
-        <category>example</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>another supplier</title>
-        <description>&lt;p&gt;This is another advert&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/advert/2018/01/12/advert-example2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/advert/2018/01/12/advert-example2.html</guid>
-        
-        
-        <category>advert</category>
+        <category>newsletter</category>
         
       </item>
     

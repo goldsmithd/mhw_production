@@ -6,6 +6,12 @@ comments: false
 
 This is a sample website for Merley Neighbourhood Watch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+## MNW DISCLAIMER 
+
+The Editor and MNW do not recommend or endorse any trader advertising in this Newsletter or by reference elsewhere. It is essential Members ensure any Trader be-ing considered is suitable for their particular needs. We ask Members who do use Traders to provide good/bad feedback to assist other Members. Remember, personal recommendation is always best, so ask friends and neighbours first. 
+
+Remember as well, that adverts and their content are paid for by the person placing the advert. MNW reserves the right to withdraw advertising copy without notice. 
+Articles and views or opinions expressed in Newsletters should not be relied upon without first taking appropriate advice from a reliable source. 
+
 
 
