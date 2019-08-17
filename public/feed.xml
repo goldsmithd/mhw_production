@@ -5,8 +5,8 @@
     <description>Merley Neighbourhood Watch</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Aug 2019 17:58:47 +0100</pubDate>
-    <lastBuildDate>Fri, 16 Aug 2019 17:58:47 +0100</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2019 12:12:35 +0100</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2019 12:12:35 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -41,6 +41,89 @@ Coordinators are welcome with ideas and comments on the way forward for MNW. Do 
         <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/featured/newsletter/2019/07/02/mnw-Diary-Dates.html</link>
         <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/02/mnw-Diary-Dates.html</guid>
+        
+        
+        <category>featured</category>
+        
+        <category>newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>Overheard</title>
+        <description>&lt;p&gt;–
+layout: post-right-sidebar
+title:  “Overheard”
+categories: [ featured, newsletter ]
+image: assets/images/2019-07-01-overheard.jpg
+featured: true
+—
+-&lt;/p&gt;
+&lt;h2 id=&quot;bug-bear&quot;&gt;Bug Bear&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;‘Bug Bear’&lt;/strong&gt; - an obstacle or nuisance. But have you heard of ‘Bug Bear’ 
+typically a coconut carved by sailors visiting the tropics years ago. 
+It often depicted a face inlaid with bone eyes and a gaping mouth. 
+It was often used as a drinking or powder flask.&lt;/p&gt;
+
+&lt;p&gt;see &lt;a href=&quot;https://www.1stdibs.com/furniture/more-furniture-collectibles/19th-century-bugbear-carved-coconut-lion-equestrian-hunt-scene/id-f_4019013/&quot;&gt;1stdibs&lt;/a&gt;
+for more information&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019/07/01/overheard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/01/overheard.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dorset Police Recently Reported</title>
+        <description>&lt;h2 id=&quot;dorset-police-recently-reported&quot;&gt;DORSET POLICE RECENTLY REPORTED&lt;/h2&gt;
+&lt;p&gt;“Neighbourhood Watch is light years away from the once common, and&lt;br /&gt;
+inaccurate, perception that it is nosey neighbours twitching curtains. 
+Far from it, it is a genuinely useful and active community intelligence tool 
+for the blue light services and a force for reassurance and 
+cohesiveness in communities.&lt;/p&gt;
+
+&lt;p&gt;For instance, Corfe Mullen, Wimborne and Colehill Home Watches have set up 
+&lt;strong&gt;‘crime prevention teams’&lt;/strong&gt;. When a crime occurs in an area that the Neighbourhood 
+Policing Team think residents need to know about, they contact the Watch. 
+Crime Prevention Team Volunteers are split into groups and knock on residents doors, 
+tell them briefly what has happened, provide them with relevant crime prevention advice, 
+encourage them to register for Dorset Alert and sign up new members. 
+This is a great initiative. It is hoped to roll out to other areas of 
+Dorset under the title of &lt;strong&gt;Neighbourhood Reassurance Team&lt;/strong&gt;.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Merley Neighbourhood Watch is working with the Police to set up a 
+Reassurance Team of our own&lt;/strong&gt;. We currently have 4 volunteers and invite all MNW members 
+to join us in preparing for this practical crime prevention initiative. 
+Merley is an area of low crime so we would hope not to be called on very often but we 
+are keen to be prepared to react when the Police do need us.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in making this contribution to our Community please contact 
+Anne Lane on &lt;a href=&quot;tel:[01202889912&quot;&gt;01202-889912&lt;/a&gt; or by email &lt;a href=&quot;mailto:admin@merley-homewatch.org.uk&quot;&gt;admin@merley-homewatch.org.uk&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/01/dorset-police.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/01/dorset-police.html</guid>
+        
+        
+        <category>featured</category>
+        
+        <category>newsletter</category>
+        
+      </item>
+    
+      <item>
+        <title>Crime Stoppers</title>
+        <description>&lt;h2 id=&quot;dont-forget&quot;&gt;Dont forget&lt;/h2&gt;
+&lt;p&gt;Free - call Crimestoppers anonymously to report a crime. Call 
+&lt;a href=&quot;tel:[0800555111]&quot;&gt;0800-555-111&lt;/a&gt; or use the 
+Crimestoppers website &lt;a href=&quot;www.crimestoppers-uk.org&quot;&gt;www.crimestoppers-uk.org&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/newsletter/2019/07/01/crime-stoppers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/01/crime-stoppers.html</guid>
         
         
         <category>featured</category>
@@ -194,44 +277,6 @@ highlighing
         
         
         <category>advert</category>
-        
-      </item>
-    
-      <item>
-        <title>Striking Back Against Stereotypes</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/newsletter/featured/2018/01/12/Striking-back-against-sterotypes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletter/featured/2018/01/12/Striking-back-against-sterotypes.html</guid>
-        
-        
-        <category>newsletter</category>
-        
-        <category>featured</category>
-        
-      </item>
-    
-      <item>
-        <title>Fake News</title>
-        <description>&lt;p&gt;This fake news information has been updated&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/featured/newsletter/2018/01/12/Fake-News.html</link>
-        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2018/01/12/Fake-News.html</guid>
-        
-        
-        <category>featured</category>
-        
-        <category>newsletter</category>
         
       </item>
     
