@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Remain Vigilant"
 categories: [ featured, newsletter ]
-image: assets/images/2019-07-01-crime-stoppers.jpg
+image: assets/images/2019-07-01-remain-vigilant.jpg
 featured: true
 ---
 

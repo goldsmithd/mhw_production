@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Yellow Busses"
 categories: [ featured, newsletter ]
-image: assets/images/2.jpg
+image: assets/images/2019-07-17-yellow-busses.jpg
 featured: true
 ---
 
@@ -10,14 +10,14 @@ featured: true
 Since our last Newsletter, we have received the following from one of our Sopwith Crescent Members 
 who makes an important point. 
 
-- Use it or lose it! - 
+## Use it or lose it! 
 
 >‘My wife and myself were overjoyed to discover today that Yellow Buses are to reinstate a 
 >Bournemouth to Wimborne service as from 8th April 2019 by extending their number 6 
 >service (which currently terminates in Bearwood) to Wimborne - 
 >via Sopwith Crescent and Magna Road. In effect it is a reintroduction of their much 
 >lamented 4d service, and is also to run on a 30 minute frequency every day except 
->Sunday from 7am to 7pm. 
+>Sunday from 7am to 7pm.  For more details see [https://www.yellowbuses.co.uk/routes/timetable/6?date=2019-08-18&direction=outbound](https://www.yellowbuses.co.uk/routes/timetable/6?date=2019-08-18&direction=outbound)
 
 >We would like to think that this has happened as a result of the large public meeting and continuing 
 >subsequent lobbying (including the efforts of both our local MPs) which followed the notice of 

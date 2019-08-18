@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Way Forward"
 categories: [ featured, newsletter ]
-image: assets/images/3.jpg
+image: assets/images/2019-07-01-way-forward.jpg
 featured: true
 ---
 

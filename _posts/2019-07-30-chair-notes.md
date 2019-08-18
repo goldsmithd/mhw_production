@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Chaimans Corner July 2019"
 categories: [ featured, newsletter ]
-image: assets/images/1.jpg
+image: assets/images/2019-07-01-chair-notes.jpg
 featured: true
 ---
 

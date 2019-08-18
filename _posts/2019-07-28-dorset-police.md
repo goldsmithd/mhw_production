@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Dorset Police Recently Reported"
 categories: [ featured, newsletter ]
-image: assets/images/3.jpg
+image: assets/images/2019-07-01-dorset-police.jpg
 featured: true
 ---
 

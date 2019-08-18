@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Traders you can Trust"
 categories: [ featured, newsletter ]
-image: assets/images/2.jpg
+image: assets/images/2019-07-01-Traders-you-trust.jpg
 featured: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "MNW Diary Dates"
 categories: [ featured, newsletter ]
-image: assets/images/2.jpg
+image: assets/images/2019-07-01-mnw-Diary-Dates.jpg
 featured: true
 ---
 

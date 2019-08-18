@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Of Passing Interest"
 categories: [ featured, newsletter ]
-image: assets/images/3.jpg
+image: assets/images/2019-07-01-passing-interest.jpg
 featured: true
 ---
 
