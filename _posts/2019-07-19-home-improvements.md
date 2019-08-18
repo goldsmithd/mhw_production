@@ -13,4 +13,4 @@ featured: true
 
 >Mobile   : [07808 635 667](tel:07808635667)<br>
 >Telephone: [01202 889 291](tel:01202889291) <br>
->Email    : [paul_steelhi@hotmail.com](paul_steelhi@hotmail.com)
+>Email    : <paul_steelhi@hotmail.com>
