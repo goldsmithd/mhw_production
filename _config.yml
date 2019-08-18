@@ -17,7 +17,7 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
-  sal:
+  sal: 
     name: Sal
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
