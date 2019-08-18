@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Watch this space"
 categories: [ featured, newsletter ]
-image: assets/images/2.jpg
+image: assets/images/2019-07-01-watch-this-space.jpg
 featured: true
 ---
 

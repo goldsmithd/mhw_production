@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Silent Emergency Calls"
 categories: [ featured, newsletter ]
-image: assets/images/2.jpg
+image: assets/images/22019-07-21-silent-emergency.jpg
 featured: true
 ---
 

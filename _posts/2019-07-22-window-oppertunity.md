@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Window of Oppertunity"
 categories: [ featured, newsletter ]
-image: assets/images/4.jpg
+image: assets/images/2019-07-01-window-oppertunity.jpg
 featured: true
 ---
 
