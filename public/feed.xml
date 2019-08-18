@@ -5,8 +5,8 @@
     <description>Merley Neighbourhood Watch</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Aug 2019 20:20:57 +0100</pubDate>
-    <lastBuildDate>Sat, 17 Aug 2019 20:20:57 +0100</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2019 16:41:06 +0100</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2019 16:41:06 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -169,6 +169,32 @@ To ‘clog up the works’ may have a similar derivation.&lt;/p&gt;
       </item>
     
       <item>
+        <title>Oakley Neighbourhood Services</title>
+        <description>&lt;h2 id=&quot;darren-gravenor&quot;&gt;Darren Gravenor&lt;/h2&gt;
+&lt;p&gt;Do you need some help around home or Garden &lt;br /&gt;
+Weeding, cutting the grass or hedge, &lt;br /&gt;
+cleaning the paths or driveway ?&lt;/p&gt;
+
+&lt;p&gt;I live and work in the Merley area so I am never far away.&lt;/p&gt;
+
+&lt;p&gt;Why not give me a call for all your garden needs&lt;/p&gt;
+
+&lt;p&gt;Mobile   : &lt;a href=&quot;tel:07866766049&quot;&gt;07866 766049&lt;/a&gt;&lt;br /&gt;
+Telephone: &lt;a href=&quot;tel:0120288792&quot;&gt;01202 887 892&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/featured/advert/2019/07/24/oakley-neigh-services.html</link>
+        <guid isPermaLink="true">http://localhost:4000/featured/advert/2019/07/24/oakley-neigh-services.html</guid>
+        
+        
+        <category>featured</category>
+        
+        <category>advert</category>
+        
+      </item>
+    
+      <item>
         <title>Remain Vigilant</title>
         <description>&lt;h2 id=&quot;dont-forget&quot;&gt;Dont forget&lt;/h2&gt;
 &lt;p&gt;Please remain vigilant and &lt;strong&gt;report anything suspicious&lt;/strong&gt; or anyone acting suspiciously, 
@@ -225,50 +251,6 @@ prompted dial 55. This tells the emergency team that you do need help but are un
         <pubDate>Sun, 21 Jul 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/featured/newsletter/2019/07/21/silent-emergency.html</link>
         <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/21/silent-emergency.html</guid>
-        
-        
-        <category>featured</category>
-        
-        <category>newsletter</category>
-        
-      </item>
-    
-      <item>
-        <title>MNW Committee</title>
-        <description>&lt;h2 id=&quot;mnw-and-your-committee&quot;&gt;MNW and YOUR COMMITTEE&lt;/h2&gt;
-&lt;p&gt;Our AGM on 22 May, unanimously re-elected Anne Lane as your Chair-man - this is her third year in 
-the role. As an ex teacher this has un-doubtedly given her the experience and quiet confidence to 
-address her audience in a way that exudes confidence, enthusiasm and encour-agement. We are glad to 
-have her continuing support to the Community.&lt;/p&gt;
-
-&lt;h2 id=&quot;your-committee-has-also-changed&quot;&gt;Your Committee has also changed.&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Cllr David Brown&lt;/strong&gt; has moved out of the Merley area and in accordance with our constitution, 
-has stepped down. David is a stalwart of the Merley community and has made a significant 
-contribution to discus-sions and has influenced our decision making. He will be missed as 
-a MNW Committee Member.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Carol Brough&lt;/strong&gt; has also stepped down. You will all have seen her ready smile and infectious laugh 
-at all meetings when you have asked for a coffee or tea. Carol has organised the catering on so 
-many occasions. We are immensely grateful to her for this ‘behind the scenes’ job that she does 
-so well. However, although she has now left the commit-tee, she has offered to continue in that 
-supporting role. It must be said too, that Carol has taken an active part on your committee. We are 
-most grateful to her for ideas and suggestions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cllr Richard Burton&lt;/strong&gt; has kindly volunteered to join our ranks. Richard was voted unanimously onto 
-your Committee. We welcome him and are sure he will make a very helpful contribution.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As has been said before, your Committee and the work it does on your behalf is only as successful 
-as the active support you offer. &lt;strong&gt;Our quorum is five and we are now down to that number.&lt;/strong&gt; 
-So, please contact Anne and offer your time and experience.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;span style=&quot;color:red&quot;&gt; We need at least two volunteers please. &lt;/span&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 20 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/featured/newsletter/2019/07/20/mnw-Committee.html</link>
-        <guid isPermaLink="true">http://localhost:4000/featured/newsletter/2019/07/20/mnw-Committee.html</guid>
         
         
         <category>featured</category>

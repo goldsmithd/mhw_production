@@ -13,6 +13,10 @@
 <lastmod>2019-07-18T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/featured/advert/2019/07/19/home-improvements.html</loc>
+<lastmod>2019-07-19T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/featured/newsletter/2019/07/19/watch-this-space.html</loc>
 <lastmod>2019-07-19T00:00:00+01:00</lastmod>
 </url>
@@ -35,6 +39,10 @@
 <url>
 <loc>http://localhost:4000/featured/newsletter/2019/07/23/remain-vigilant.html</loc>
 <lastmod>2019-07-23T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/featured/advert/2019/07/24/oakley-neigh-services.html</loc>
+<lastmod>2019-07-24T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/featured/newsletter/2019/07/24/passing-interest.html</loc>
@@ -83,6 +91,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/newsletter/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/advert/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
