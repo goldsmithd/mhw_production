@@ -7,6 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: ''
+baseurl: 'https://mhw_production.storage.googleapis.com'
 #baseurl: 'https://mhwsample.co.uk.s3-website-eu-west-1.amazonaws.com'
 #baseurl: 'https://s3-eu-west-1.amazonaws.com/mhwsample.co.uk/'
 #C:\Users\GoldsmiD\documents\affiliates-jekyll-theme
